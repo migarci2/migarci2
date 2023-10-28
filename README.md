@@ -66,7 +66,7 @@ I'm a naturally curious individual who enjoys diving deep into various subjects.
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/miguel-garc%C3%ADa-rom%C3%A1n-454744163/)
+[LinkedIn](https://www.linkedin.com/in/miguelgr8/)
 [Email](mailto:miguelgarciaroman8@gmail.com)
 
 </div>
