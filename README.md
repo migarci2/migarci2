@@ -38,11 +38,10 @@ Ultimately, my aim is to become an expert in Computer Engineering, with the skil
 
 - **Operating Systems, Compilers Functionality**
 - **Cloud Computing**: Focusing on Google Cloud
-- **Database Management**: Supabase, Firebase
-- **Frontend Frameworks**: Advanced React.js techniques
+- **Database Management**: Supabase, Firebase, MongoDB, Postgres
+- **Frontend Frameworks**: React.js
 - **Cybersecurity**: Ethical hacking, penetration testing
 - **Containerization**: Docker, Kubernetes
-- **Network Protocols**: Understanding TCP/IP, HTTP/2
 - **Data Structures & Algorithms**: Advanced sorting, searching algorithms
 
 
