@@ -12,7 +12,7 @@
 
 <div align="left">
 
-I'm enrolled in a Computer Engineering program at the University of Granada (UGR) while also pursuing the 42 cursus in Málaga. These two educational pathways offer me a well-rounded experience, combining academic rigor with practical, hands-on coding challenges.
+I'm enrolled in a Computer Science program at the University of Granada (UGR) while also pursuing the 42 cursus in Málaga. These two educational pathways offer me a well-rounded experience, combining academic rigor with practical, hands-on coding challenges.
 
 At UGR, I'm gaining a solid foundation in core computer science concepts, including algorithms, data structures, and software engineering. The theoretical knowledge I acquire here serves as the bedrock for my future endeavors in tech.
 
