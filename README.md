@@ -34,24 +34,12 @@ Ultimately, my aim is to become an expert in Computer Engineering, with the skil
 
 ---
 
-<h4 align="center">🌱 Currently Learning</h4>
 
-- **Operating Systems, Compilers Functionality**
-- **Cloud Computing**: Focusing on Google Cloud
-- **Database Management**: Supabase, Firebase, MongoDB, Postgres
-- **Frontend Frameworks**: React.js
-- **Cybersecurity**: Ethical hacking, penetration testing
-- **Containerization**: Docker, Kubernetes
-- **Data Structures & Algorithms**: Advanced sorting, searching algorithms
+<h4 align="center" >🌟 Professional Aspiration</h4>
+
+My foremost ambition is to contribute significantly to society by creating impactful, value-driven solutions. In the short term, I am dedicated to refining my technical expertise and keeping abreast of the latest industry trends. Over the long haul, my goal is to intertwine technology with aspects of psychology and philosophy, leading initiatives that are deeply rooted in human-centric values.
 
 
-</div>
-
----
-
-<h4 align="center">📈 Career Goal</h4>
-
-My ultimate goal is to launch a high-value startup that addresses both consumer needs and broader societal issues. In the short term, I'm focused on honing my technical skills and staying updated with industry trends. Long-term, I aim to combine technology with elements of psychology and philosophy to lead a human-centered venture.
 
 <h4 align="center">📚 Interests</h4>
 
