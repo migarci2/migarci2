@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div align="left">
 
 <h3 align="center">Hi, I'm Miguel! 👋</h3> <a href="![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXdarksyderX%2FXdarksyderX&countColor=%23263759)">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXdarksyderX%2FXdarksyderX&countColor=%23263759" /></a>
